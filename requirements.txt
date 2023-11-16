@@ -1,12 +1,12 @@
 tgcrypto
-pyrogram==1.4.16
+pyrogram==2.0.106
 py-tgcalls==0.9.7
 pybase64
 youtube-search-python
 yt-dlp==2021.11.10.1
 ffmpeg-python
-aiohttp
-aiofiles
+aiohttp==3.8.5
+aiofiles==23.2.1
 asyncio
 Pillow
 pytube
